@@ -36,7 +36,7 @@ public class Comodo {
         this.comprimento = comprimento;
     }
 
-    public Double getSubtotal(){
+    public Double getArea(){
         return getLargura() * getComprimento();
     }
 }
